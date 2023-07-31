@@ -1,4 +1,4 @@
-# Automatically build executable files with .pyd files
+# 关于
 - 该脚本能自动使用Cython生成.pyd文件并使用Pyinstaller将.pyd文件打包成可执行文件
 - 在某种程度上这可以提高程序的运行效率，并增加程序被反编译的难度
 # 使用方法
